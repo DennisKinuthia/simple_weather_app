@@ -1,0 +1,17 @@
+Map<String, String> pics = {
+  'Clear': 'assets/images/clearsky.jpeg',
+  'Clouds': 'assets/images/clouds.jpeg',
+  'Drizzle': 'assets/images/drizzle.jpeg',
+  'Rain': 'assets/images/rain.jpeg',
+  'Thunderstorm': 'assets/images/thunder.jpeg',
+  'Snow': 'assets/images/snow.jpeg',
+  'Mist': 'assets/images/mist.jpeg',
+  'Smoke': 'assets/images/mist.jpeg',
+  'Haze': 'assets/images/mist.jpeg',
+  'Dust': 'assets/images/fog.jpeg',
+  'Fog': 'assets/images/fog.jpeg',
+  'Sand': 'assets/images/fog.jpeg',
+  'Ash': 'assets/images/fog.jpeg',
+  'Squall': 'assets/images/fog.jpeg',
+  'Tornado': 'assets/images/tornado.jpeg',
+};
