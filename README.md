@@ -32,5 +32,18 @@ This is not a complete application. It was used as teaching material for `Future
 
 3. Add a screen for favourite cities that will display all cities saved as favourites of the user.
 
-
 Screenshots
+
+![Simulator Screen Shot - iPhone 13 - 2022-11-23 at 21 59 22](https://user-images.githubusercontent.com/98651593/203620429-6900b21b-1791-4048-a774-138314f05023.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-11-23 at 21 59 12](https://user-images.githubusercontent.com/98651593/203620469-16a11da1-5b5a-4775-a9e8-f7f4143b98a9.png)
+
+
+
+
+
+
+
+
+
+
