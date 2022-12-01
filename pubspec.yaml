@@ -36,6 +36,8 @@ dependencies:
   google_fonts: ^3.0.1
   stylish_bottom_bar: ^0.1.5
   geolocator: ^9.0.2
+  go_router: ^5.2.0
+  provider: ^6.0.0
 
 
   # The following adds the Cupertino Icons font to your application.

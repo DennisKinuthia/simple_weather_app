@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_weather/components/border_box.dart';
+import 'package:my_weather/screens/favorites/favorites_screen.dart';
 import 'package:my_weather/screens/locations/cities_screen.dart';
 import 'package:my_weather/screens/weather_data_screen/components/conditions.dart';
 import 'package:my_weather/screens/weather_data_screen/components/wind_and_clouds.dart';
@@ -42,11 +43,18 @@ class _WeatherState extends State<Weather> {
         elevation: 20.0,
         splashColor: primaryColor,
         backgroundColor: secondaryColor,
-        onPressed: () {},
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => Favourtes(),
+            ),
+          );
+        },
         tooltip: 'Favorite',
         child: Icon(
-          Icons.favorite_border,
-          color: primaryColor,
+          Icons.favorite,
+          color: Colors.pinkAccent,
         ),
       ),
       bottomNavigationBar: StylishBottomBar(
